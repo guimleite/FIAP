@@ -1,4 +1,4 @@
-![06-parceiros-logo-fiap](D:\Users\Gui\Downloads\06-parceiros-logo-fiap.png)
+![Logo](D:\Projects\Github\FIAP\Logo.png)
 
 Este repositório vai agrupar meus estudos de programação pela FIAP. Os códigos aqui são, em principio, arquivos feitos para praticar, acompanhando as aulas da faculdade, e não projetos de uso real. :man_technologist: :mortar_board: 
 
