@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>Página de Teste</title>
+        <meta name="keywords" content="fiap, exemplo, html">
+        <link rel="stylesheet" type="text/css" href="exemplo.css"> 
+        <style>
+            body {background-color: aqua;}
+        </style>
+        <script type="text/javascript" src="exemplo.js"></script>
+    </head>
+    <body>
+        <form id='formulario' method="post" action="processaForm.php">
+            <label for="nome">Nome Completo: </label>
+            <input type="text" id="nome" maxlength="70" value="Guilherme Magalhães Leite" disabled><br><br>
+
+            <label for="idade">Idade: </label>
+            <input type="number" id="idade"><br><br>
+
+            <label for="emailEnd">E-mail: </label>
+            <input type="email" id="emailEnd"><br><br>
+
+            <label for="estcivil">Estado Civil: </label>
+            <select id="estcivil">
+                <option value="S">Solteiro(a)</option>
+                <option value="C">Casado(a)</option>
+                <option value="V">Viúvo(a)</option>
+                <option value="D">Divorciado(a)</option>
+                <option value="N" selected>Namorando</option>
+            </select> <br><br>
+
+            <label for="isOtaku">É otaku? </label>
+            <input type="radio" name="isOtaku" value="Sim"> Sim
+            <input type="radio" name="isOtaku" value="Não"> C <br><br>
+            
+            <label for="obs">Observações</label><br><br>
+            <textarea id="obs" cols="50" rows="10">Digite aqui suas observações</textarea><br><br>
+
+            <input type="submit" value="Enviar">
+
+        </form>
+    </body>   
+</html>

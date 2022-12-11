@@ -1,0 +1,15 @@
+*{
+    font-family: arial;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    color:plum
+}
+
+div p{color: royalblue}
+
+div > span{color: goldenrod;}
