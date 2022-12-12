@@ -2,8 +2,6 @@ Este repositório contém o protótipos de telas do Projeto Fintech - Trader Wal
 
 Atividade do Cap 5 da FASE 04 - View.
 
-![Logo](https://github.com/guimleite/FIAP/blob/main/Logo.png)
-
 
 
 
